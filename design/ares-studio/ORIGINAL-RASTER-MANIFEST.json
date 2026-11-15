@@ -1,0 +1,85 @@
+{
+  "work_order": "IRIS-BRD-REF-001",
+  "status": "ORIGINAL_RASTERS_NOT_YET_COMMITTED_TO_GITHUB",
+  "selected_design": "Option 2",
+  "source": "Images generated and selected in ChatGPT 2026-11-15",
+  "repo_target": "KayzenRoot/studioiris",
+  "root_target": "design/ares-studio/originals/",
+  "archive_file": "ares-studio-option2-master-assets.zip",
+  "archive_sha256": "e6c5e88483ade6d2d7c7e207d1399d7d445f7bbfd5316be24acb18547e1b44d7",
+  "personal_library_path": "/Ares Studio/Brand Master/ares-studio-option2-master-assets.zip",
+  "files": [
+    {
+      "path": "reference/option-2-approved-master.png",
+      "bytes": 1826017,
+      "sha256": "a81a3c9e35b51357ba044881fab89263fa9a7077ab4a1c6cf5245b9796cb2a92",
+      "width": 1448,
+      "height": 1086,
+      "role": "PRIMARY_APPROVED_REFERENCE"
+    },
+    {
+      "path": "mockups/dashboard-approved-visual.png",
+      "bytes": 1756041,
+      "sha256": "7492ca3cc04ae084d09d0e709b7bd12392cba497c67a852e23e9cea6c06a6a82",
+      "width": 1448,
+      "height": 1086,
+      "role": "DASHBOARD_MOCKUP"
+    },
+    {
+      "path": "logos/ares-logo-primary-light-on-dark.png",
+      "bytes": 464088,
+      "sha256": "b98fdfd3b8c4bbfd44bf808243ca416ce7ad1d395073caecf7439a47ed28383f",
+      "width": 2172,
+      "height": 724,
+      "role": "PRIMARY_LOGO_DARK_BG"
+    },
+    {
+      "path": "logos/ares-logo-primary-dark-on-light.png",
+      "bytes": 476398,
+      "sha256": "780f3083ffea1f9f49f719742f2971e7bf25c59d74f676769baf1d4ab9af1c28",
+      "width": 2172,
+      "height": 724,
+      "role": "PRIMARY_LOGO_LIGHT_BG"
+    },
+    {
+      "path": "logos/ares-logo-primary-alternate.png",
+      "bytes": 564330,
+      "sha256": "51cb8e82f908797baabd4e2330ebf69bec6b7171e2cf6c8a8e55824d7fc7b6d6",
+      "width": 2172,
+      "height": 724,
+      "role": "ALTERNATE"
+    },
+    {
+      "path": "logos/ares-logo-watermark.png",
+      "bytes": 384365,
+      "sha256": "bc3b2bb27b8be1aee2f9d2a0c6b938a04b17859f1e50619f20ef1def1b41c525",
+      "width": 2172,
+      "height": 724,
+      "role": "WATERMARK"
+    },
+    {
+      "path": "icons/ares-symbol.png",
+      "bytes": 872039,
+      "sha256": "7e613242065fbcd8d1e42c98975430425ea083e4b622a0799b56a042277397fe",
+      "width": 1254,
+      "height": 1254,
+      "role": "SYMBOL"
+    },
+    {
+      "path": "icons/ares-app-icon.png",
+      "bytes": 1353949,
+      "sha256": "7c919d3d6cdb9c9cf89370553b7cb560666b62cd32d059b359e0363418d824f8",
+      "width": 1254,
+      "height": 1254,
+      "role": "APP_ICON"
+    },
+    {
+      "path": "icons/ares-symbol-monochrome.png",
+      "bytes": 478889,
+      "sha256": "507f3693a24915f785989ca5870bcc69541afeca680b0e42e3d93c601db1b2e4",
+      "width": 1254,
+      "height": 1254,
+      "role": "MONOCHROME"
+    }
+  ]
+}
