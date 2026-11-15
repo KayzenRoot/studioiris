@@ -1,0 +1,26 @@
+{
+  "brand": "Ares Studio",
+  "concept": "Option 2 / Aperture + A + Neon Orbit",
+  "reference_status": "USER_SELECTED_VISUAL_DIRECTION; SVGs ARE PROPOSED RECONSTRUCTIONS",
+  "colors": {
+    "canvas": "#090E10",
+    "surface": "#11191B",
+    "surfaceRaised": "#1A1F24",
+    "accent": "#A3FF00",
+    "accentLight": "#C4FF48",
+    "text": "#F5F7F4",
+    "muted": "#A9B5AE",
+    "border": "#35413B"
+  },
+  "typography": {
+    "primary": "Inter",
+    "secondary": "Manrope",
+    "fallback": "Arial, sans-serif"
+  },
+  "references": [
+    "#22",
+    "#23",
+    "#24"
+  ],
+  "copyright": "MIT is not automatically granted to third-party art/fonts/models; rights/provenance review required before commercial publication."
+}
