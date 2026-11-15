@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276 72" width="276" height="72" role="img" aria-labelledby="title">
+  <title id="title">IrisStudio</title>
+  <g transform="translate(4 4)">
+    <path d="M3 32C10 20.5 18.3 15 28 15s18 5.5 25 17c-7 11.5-15.3 17-25 17S10 43.5 3 32Z" fill="none" stroke="#A78BFA" stroke-width="4" stroke-linejoin="round"/>
+    <circle cx="28" cy="32" r="10" fill="none" stroke="#C4B5FD" stroke-width="3.5"/>
+    <circle cx="28" cy="32" r="4" fill="#E1D8FF"/>
+  </g>
+  <text x="78" y="50" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.2">
+    <tspan fill="#B9A7FF">Iris</tspan><tspan fill="#F7F7F8">Studio</tspan>
+  </text>
+</svg>

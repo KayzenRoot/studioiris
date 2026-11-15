@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="IrisStudio">
+  <rect width="32" height="32" rx="7" fill="#0f1113"/>
+  <rect x="0.6" y="0.6" width="30.8" height="30.8" rx="6.6" fill="none" stroke="#A78BFA" stroke-opacity="0.4" stroke-width="1.2"/>
+  <path d="M4.5 16C7.5 10.8 11.4 8.2 16 8.2s8.5 2.6 11.5 7.8c-3 5.2-6.9 7.8-11.5 7.8S7.5 21.2 4.5 16Z" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="16" cy="16" r="4.1" fill="none" stroke="#C4B5FD" stroke-width="1.7"/>
+  <circle cx="16" cy="16" r="1.7" fill="#E1D8FF"/>
+</svg>

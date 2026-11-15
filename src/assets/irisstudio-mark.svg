@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="IrisStudio">
+  <path d="M7 32C14 20.5 22.3 15 32 15s18 5.5 25 17c-7 11.5-15.3 17-25 17S14 43.5 7 32Z" fill="none" stroke="#A78BFA" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="10" fill="none" stroke="#C4B5FD" stroke-width="3.5"/>
+  <circle cx="32" cy="32" r="4" fill="#E1D8FF"/>
+</svg>
